@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\bin\Debug\CoffeeMakerLive.exe.config
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\bin\Debug\CoffeeMakerLive.exe
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\bin\Debug\CoffeeMakerLive.pdb
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\obj\Debug\CoffeeMakerLive.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\obj\Debug\CoffeeMakerLive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\obj\Debug\CoffeeMakerLive.exe
+C:\Users\Admin\Documents\CoffeeMakerLive\CoffeeMakerLive\obj\Debug\CoffeeMakerLive.pdb
